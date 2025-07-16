@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou o Gabriel Pessi!
 
 💻 **Desenvolvedor Front-end em formação**  
 🎓 Estudante de **Sistemas de Informação** na UFSC  
