@@ -20,8 +20,8 @@
 ---
 
 ## 📌 Projetos em Destaque
-- **[Rede social](https://github.com/gabpessi/RevelaApp)** – Rede social de fotógrafos usando React.js e Django.
-- **[FlixApp](https://github.com/gabpessi/flixxapp))** – Site para consulta de filmes e séries conectado a uma API.
+- **[Revela](https://github.com/gabpessi/RevelaApp)** – Rede social de fotógrafos usando React.js e Django.
+- **[FlixApp](https://github.com/gabpessi/flixxapp)** – Site para consulta de filmes e séries conectado a uma API.
 - **[Must Landing Page](https://github.com/gabpessi/must)** – Landing page para empresa fictícia feita com React.
 
 ---
