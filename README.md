@@ -25,6 +25,7 @@
 - **[Must Landing Page](https://github.com/gabpessi/must)** – Landing page para empresa fictícia feita com React.
 
 ---
+## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabpessi&layout=compact&theme=dracula&langs_count=6)
 
 ---
