@@ -20,21 +20,21 @@
 ---
 
 ## 📌 Projetos em Destaque
-- **[Portfolio Pessoal](https://github.com/seuusuario/portfolio)** – Site pessoal usando Next.js + Tailwind.
-- **[App Mobile](https://github.com/seuusuario/app-mobile)** – Aplicativo em React Native.
-- **[CMS Project](https://github.com/seuusuario/cms-project)** – API com Strapi para consumo no front-end.
+- **[Rede social](https://github.com/gabpessi/RevelaApp)** – Rede social de fotógrafos usando React.js e Django.
+- **[FlixApp](https://github.com/gabpessi/flixxapp))** – Site para consulta de filmes e séries conectado a uma API.
+- **[Must Landing Page](https://github.com/gabpessi/must)** – Landing page para empresa fictícia feita com React.
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabpessi&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabpessi&layout=compact&theme=dracula&langs_count=6)
 
 ---
 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pessi-buchweitz-52623a224/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabpessi@gmail.com)
 
 ---
 ⭐ **Dica**: Confira meus repositórios para ver o que estou construindo!
